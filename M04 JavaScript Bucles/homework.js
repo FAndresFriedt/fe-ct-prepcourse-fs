@@ -148,7 +148,7 @@ function esPrimo(num) {
       }
    return true
 }
-console.log(esPrimo(11))
+console.log(esPrimo(2))
 
 function esVerdadero(valor) {
    // Si "valor" es verdadero retornar "Soy verdadero".
